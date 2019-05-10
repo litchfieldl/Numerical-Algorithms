@@ -1,2 +1,2 @@
 ﻿# False Position Algorithm
-This algorithm computes the zero of a given function on a given interval using the False Position Method.
+This algorithm computes the root of a given function on a given interval using the False Position Method. It asks for a function, lower bound, upper bound, error approximation, and number of iterations as inputs. However, only the funciton and bounds are required for this function to work. The function then outputs the root, the value of the function at the root, the error associated with the approximation, and the number of iterations preformed. There are two main limitations with this function. One is it requires 2 guesses in order to approximate the root. The other is it can sometimes be very slow.  
