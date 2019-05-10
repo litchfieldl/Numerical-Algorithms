@@ -1,2 +1,2 @@
 ﻿# Simpson Algorithm
-This algorithm calculates the integral of tabulated data (given in the for of matracies) using Simpson's 1/3 Rule. 
+This algorithm calculates the integral of tabulated data (given in the for of matracies) using Simpson's 1/3 Rule. It asks for two matricies as inputs. One corresponds to x values from tabulated data and one to y values. The function then outputs an estimated integral of the data. This functions is limited to preforming calulations on data with an even amount of intervals. Otherwise, the function preforms the trapezodial rule in addition to Simpson's 1/3 Rule. 
